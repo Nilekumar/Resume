@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: Helvetica,Arial, sans-serif;
+}
+h1{
+    color: #55d3df;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 100px 0 0 0;
+    font-size: 3.8rem;
+    font-family: 'Satisfy', cursive;
+    line-height: 1.3;
+}
+h2{
+    color: #55d3df;
+    margin-top: 2px;
+    margin-bottom: 50px;
+    padding: 8px ;
+    font-size: 2.5rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: normal;
+}
+
+.top-container{
+    position: relative;
+    background-color: #E8F9FD;
+    /* height: 200px; */
+    /* width: 200px; */
+}
+.design{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.top-cloud{
+    width: 50px;
+    position: absolute;
+    right: 27vw;
+    top: 72px;
+}
+.forest-img{
+    width: 300px;
+}
+.bottom-cloud{
+    width: 50px;
+    position: absolute;
+    left: 325px;
+    bottom: 380px;
+}
+
+hr{
+    width: 8%;
+    color: #EAF6F6;
+    border-width: 5px 0 0 0;
+    border-style: dotted;
+    margin: 40px auto;
+}
+
+.middle-container{
+   
+}
+.profile-img{
+    width: 200px;
+    margin-top: 40px;
+}
+.description{
+    color: #40514E;
+    width: 50%;
+    margin: auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 140px auto;
+    text-align: left;
+    
+}
+h3{
+    color: #42C2FF;
+}
+p{
+    font-weight: bold;
+    line-height: 2rem;
+}
+
+.artist-img{
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+.gardening-img{
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+
+}
+.btn-up-para{
+    margin-bottom: 50px;
+}
+.btn{
+    font-size: 1.5rem;
+    padding: 5px 8px;
+    border-radius: 5px;
+    /* background-color: #2cafec; */
+    background-image: linear-gradient(#85F4FF, #48c6d1);
+    color: white;
+    font-weight: normal;
+
+}
+.bottom-container{
+    margin: 80px 0 0 0;
+    height: 11vw;
+    background-color: #85F4FF;
+
+    
+}
+a{  font-weight: bold;
+    padding: 50px 30px;
+    color: #2cafec;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.footer{
+    position: relative;
+    top: 40px;
+
+}
+.copywrite{
+    color: white
+    ;
+
+}
+
+
+  
